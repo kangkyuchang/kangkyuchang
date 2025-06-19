@@ -17,6 +17,8 @@
 ![Static Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
 <br>
 <h2>Project</h2>
