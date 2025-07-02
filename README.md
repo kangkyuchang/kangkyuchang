@@ -24,29 +24,29 @@ The subtitle above the table represents the specific role I was responsible for 
 For projects categorized as “Multidisciplinary,” I contributed to multiple areas; among these, my primary roles are bolded for emphasis.  
 
 ### Back-End</h3>
-| 기간 | 프로젝트명 | 형태 | 분야 | 설명 | 레포지토리 |
+| Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
 | 2023.09.11 ~ 2023.12.04 | 동행 | 팀 | 웹 / 네이티브 | 택시 동승자를 찾아주는 서비스 | [GitHub] |
 
 ### Game
-| 기간 | 프로젝트명 | 형태 | 분야 | 설명 | 레포지토리 |
+| Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
 | 2025.03.24 ~ 2025.06.02 | only bosses | 팀 | 게임 | 여러 직업과 각종 아이템을 조합하여 보스를 처치하는 게임 | [GitHub] |
 
 ### Security
-| 기간 | 프로젝트명 | 형태 | 분야 | 설명 | 레포지토리 |
+| Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
 | 2024.05.11 ~ 2024.05.12 | RSA | 개인 | 암호 | 암호화 알고리즘인 RSA 키 생성 구현 | [GitHub] |
 | 2025.02.22 ~ | FireWall | 개인 | 네트워크 보안 | 블랙리스트에 등록된 IP들의 패킷 차단 | [GitHub] |
 
 ### AI
-| 기간 | 프로젝트명 | 형태 | 분야 | 설명 | 레포지토리 |
+| Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
 | 2025.05.12 ~ 2024.05.18 | Personal Color | 개인 | AI | 자신의 퍼스널 컬러를 찾아주는 인공지능 | [GitHub] |
 | 2025.04.17 ~ | DDoS-Detection | 개인 | AI | 딥러닝을 활용하여 DDoS 탐지 | [GitHub] |
 
 ### Multidisciplinary
-| 기간 | 프로젝트명 | 형태 | 분야 | 설명 | 레포지토리 |
+| Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
 | 2024.04.27 ~ 2025.06.29 | Cloud | 개인 | **웹** | 웹을 통해 파일을 저장하는 자신만의 저장소 | [GitHub] |
 | 2024.09.07 ~ 2025.05.12 | HangMan | 개인 | **웹** / **게임** | 웹으로 이루어지는 단어 맞추기 게임 | [GitHub] |
