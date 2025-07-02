@@ -19,6 +19,10 @@ I am passionate about leveraging this broad skill set to build innovative and re
 ![MONGODB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
 ## Project
+The “Field” column in the table indicates the technical domain of each project (e.g., Web, Game, Data Analysis, etc.).  
+The subtitle above the table represents the specific role I was responsible for in each project (e.g., Back-End, Front-End).  
+For projects categorized as “Multidisciplinary,” I contributed to multiple areas; among these, my primary roles are bolded for emphasis.  
+
 ### Back-End</h3>
 | 기간 | 프로젝트명 | 형태 | 분야 | 설명 | 레포지토리 |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
@@ -44,9 +48,9 @@ I am passionate about leveraging this broad skill set to build innovative and re
 ### Multidisciplinary
 | 기간 | 프로젝트명 | 형태 | 분야 | 설명 | 레포지토리 |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
-| 2024.04.27 ~ 2025.06.29 | Cloud | 개인 | 웹 | 웹을 통해 파일을 저장하는 자신만의 저장소 | [GitHub] |
-| 2024.09.07 ~ 2025.05.12 | HangMan | 개인 | 웹 / 게임 | 웹으로 이루어지는 단어 맞추기 게임 | [GitHub] |
-| 2024.09.27 ~ 2024.12.06 | checkmate | 팀 | 웹 / Android / IoT | 출결 관리 시스템이 포함된 커뮤니티 서비스 | [GitHub] |
+| 2024.04.27 ~ 2025.06.29 | Cloud | 개인 | **웹** | 웹을 통해 파일을 저장하는 자신만의 저장소 | [GitHub] |
+| 2024.09.07 ~ 2025.05.12 | HangMan | 개인 | **웹** / **게임** | 웹으로 이루어지는 단어 맞추기 게임 | [GitHub] |
+| 2024.09.27 ~ 2024.12.06 | checkmate | 팀 | 웹 / **Android** / **IoT** | 출결 관리 시스템이 포함된 커뮤니티 서비스 | [GitHub] |
 
 <!--
 **kangkyuchang/kangkyuchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
