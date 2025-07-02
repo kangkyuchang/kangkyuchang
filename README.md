@@ -26,7 +26,7 @@ For projects categorized as “Multidisciplinary,” I contributed to multiple a
 ### Back-End</h3>
 | Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
-| 2023.09.11 ~ 2023.12.04 | 동행 | 팀 | 웹 / 네이티브 | 택시 동승자를 찾아주는 서비스 | [GitHub] |
+| 2023.09.11 ~ 2023.12.04 | 동행 | 팀 | 웹 / 네이티브 | 택시 동승자를 찾아주는 서비스 | [GitHub](https://github.com/kangkyuchang/donghaeng) |
 
 ### Game
 | Period | Project Name | Type | Field | Description | Rspository |
@@ -36,7 +36,7 @@ For projects categorized as “Multidisciplinary,” I contributed to multiple a
 ### Security
 | Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
-| 2024.05.11 ~ 2024.05.12 | RSA | 개인 | 암호 | 암호화 알고리즘인 RSA 키 생성 구현 | [GitHub] |
+| 2024.05.11 ~ 2024.05.12 | RSA | 개인 | 암호 | 암호화 알고리즘인 RSA 키 생성 구현 | [GitHub](https://github.com/kangkyuchang/RSA) |
 | 2025.02.22 ~ | FireWall | 개인 | 네트워크 보안 | 블랙리스트에 등록된 IP들의 패킷 차단 | [GitHub] |
 
 ### AI
