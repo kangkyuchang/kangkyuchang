@@ -1,11 +1,8 @@
-<h1>Hi, I'm Kang Kyu Chang</h1>
-<p>
-  I'm a multidisciplinary software developer with experience ranging from computer assembly and hardware troubleshooting to front-end and back-end development, AI modeling, game development, IoT development, cryptography implementation and security.
-  <br>
-  I am passionate about leveraging this broad skill set to build innovative and reliable technology solutions, and I thrive in environments that value both depth and versatility.
-</p>
-<br>
-<h2>Tech Stack</h2>
+# Hi, I'm Kang Kyu Chang
+I'm a multidisciplinary software developer with experience ranging from computer assembly and hardware troubleshooting to front-end and back-end development, AI modeling, game development, IoT development, cryptography implementation and security.  
+I am passionate about leveraging this broad skill set to build innovative and reliable technology solutions, and I thrive in environments that value both depth and versatility.
+
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css&logoColor=FFFFFF)
@@ -21,10 +18,11 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
-<br>
-<h2>Project</h2>
-<h3>Font-End</h3>
-<h3>Back-End</h3>
+## Project
+### Back-End</h3>
+| 기간 | 프로젝트명 | 형태 | 분야 | 설명 | 레포지토리 |
+|------|-----------|-----|------|------|--------------|
+
 <h3>AI</h3>
 <h3>Game</h3>
 <h3>Security </h3>
