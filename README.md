@@ -31,7 +31,7 @@ For projects categorized as “Multidisciplinary,” I contributed to multiple a
 ### Game
 | Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
-| 2025.03.24 ~ 2025.06.02 | only bosses | 팀 | 게임 | 여러 직업과 각종 아이템을 조합하여 보스를 처치하는 게임 | [GitHub] |
+| 2025.03.24 ~ 2025.06.02 | only bosses | 팀 | 게임 | 여러 직업과 각종 아이템을 조합하여 보스를 처치하는 게임 | [GitHub](https://github.com/onlyBosses/only-bosses) |
 
 ### Security
 | Period | Project Name | Type | Field | Description | Rspository |
@@ -48,7 +48,7 @@ For projects categorized as “Multidisciplinary,” I contributed to multiple a
 ### Multidisciplinary
 | Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
-| 2024.04.27 ~ 2025.06.29 | Cloud | 개인 | **웹** | 웹을 통해 파일을 저장하는 자신만의 저장소 | [GitHub] |
+| 2024.04.27 ~ 2025.06.29 | Cloud | 개인 | **웹** | 웹을 통해 파일을 저장하는 자신만의 저장소 | [GitHub](https://github.com/kangkyuchang/Cloud-BackEnd) |
 | 2024.09.07 ~ 2025.05.12 | HangMan | 개인 | **웹** / **게임** | 웹으로 이루어지는 단어 맞추기 게임 | [GitHub](https://github.com/kangkyuchang/hangman) |
 | 2024.09.27 ~ 2024.12.06 | checkmate | 팀 | 웹 / **Android** / **IoT** | 출결 관리 시스템이 포함된 커뮤니티 서비스 | [GitHub](https://github.com/kangkyuchang/checkmate) |
 
