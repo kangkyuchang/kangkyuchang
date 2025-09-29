@@ -42,8 +42,8 @@ For projects categorized as “Multidisciplinary,” I contributed to multiple a
 ### AI
 | Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
-| 2025.05.12 ~ 2024.05.18 | Personal Color | 개인 | AI | 자신의 퍼스널 컬러를 찾아주는 인공지능 | [GitHub](https://github.com/kangkyuchang/PersonalColor) |
-| 2025.04.17 ~ | DDoS-Detection | 개인 | AI | 딥러닝을 활용하여 DDoS 탐지 | [GitHub](https://github.com/kangkyuchang/DDoS-Detection) |
+| 2025.05.12 ~ 2025.05.18 | Personal Color | 개인 | AI | 자신의 퍼스널 컬러를 찾아주는 인공지능 | [GitHub](https://github.com/kangkyuchang/PersonalColor) |
+| 2025.04.17 ~ 2025.06.18 | DDoS-Detection | 개인 | AI | 딥러닝을 활용하여 DDoS 탐지 | [GitHub](https://github.com/kangkyuchang/DDoS-Detection) |
 
 ### Multidisciplinary
 | Period | Project Name | Type | Field | Description | Rspository |
