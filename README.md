@@ -1,3 +1,4 @@
+## HI, I'm Kang Kyu Chang
 <pre>
 $ whoami
 kangkyuchang
@@ -19,7 +20,7 @@ $ cat ~/profile/README.md
 # Status: Access Granted. Security Level: 9/10
 
 I'm a multidisciplinary software developer with experience ranging from computer assembly and hardware troubleshooting to 
-front-end and back-end development, AI modeling, game development, IoT development, cryptography implementation and security.
+front-end & back-end development, AI modeling, game development, IoT development, cryptography implementation and security.
 I am passionate about leveraging this broad skill set to build innovative and reliable technology solutions, 
 and I thrive in environments that value both depth and versatility.
 
@@ -52,7 +53,7 @@ $ list-skills --verbose
 ![MYSQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
-## Project
+## 🌟 Project
 <pre>
 ==================================================
 
