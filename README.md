@@ -1,4 +1,4 @@
-## HI, I'm Kang Kyu Chang
+# HI, I'm Kang Kyu Chang
 <pre>
 $ whoami
 kangkyuchang
@@ -73,6 +73,8 @@ $ cat ~/profile/PROJECT_INDEX.txt
 $ exit
 [INFO] Session terminated. Returning to CUI for detailed information. 
 </pre>
+
+---
 
 ### Back-End</h3>
 | Period | Project Name | Type | Field | Description | Rspository |
