@@ -1,20 +1,36 @@
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangkyuchang&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
 # Hi, I'm Kang Kyu Chang
 I'm a multidisciplinary software developer with experience ranging from computer assembly and hardware troubleshooting to front-end and back-end development, AI modeling, game development, IoT development, cryptography implementation and security.  
 I am passionate about leveraging this broad skill set to build innovative and reliable technology solutions, and I thrive in environments that value both depth and versatility.
 
+---
+
 ## Tech Stack
 
+### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css&logoColor=FFFFFF)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=000000)  
+
+### Programming Language
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)  
+
+### Frame Work
 ![ANDROIDSTUDIO](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)
 ![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
 ![UNITY](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)  
+
+### DataBase
 ![MYSQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
