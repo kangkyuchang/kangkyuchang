@@ -1,43 +1,77 @@
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangkyuchang&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+<pre>
+$ whoami
+kangkyuchang
 
-<br>
+$ cat /etc/os-release
+NAME="Arch Linux"
+PRETTY_NAME="Arch Linux"
+VERSION_ID="2025.10"
 
-# Hi, I'm Kang Kyu Chang
-I'm a multidisciplinary software developer with experience ranging from computer assembly and hardware troubleshooting to front-end and back-end development, AI modeling, game development, IoT development, cryptography implementation and security.  
-I am passionate about leveraging this broad skill set to build innovative and reliable technology solutions, and I thrive in environments that value both depth and versatility.
+$ log -m "Initializing Profile..."
+[INFO] Successfully loaded profile. Access Granted.
 
----
+==================================================
 
-## Tech Stack
+$ cat ~/profile/README.md
 
-### Web Development
+# [Multidisciplinary Developer]
+# Name: Kang Kyu Chang
+# Status: Access Granted. Security Level: 9/10
+
+I'm a multidisciplinary software developer with experience ranging from computer assembly and hardware troubleshooting to 
+front-end and back-end development, AI modeling, game development, IoT development, cryptography implementation and security.
+I am passionate about leveraging this broad skill set to build innovative and reliable technology solutions, 
+and I thrive in environments that value both depth and versatility.
+
+==================================================
+
+$ list-skills --verbose
+[INFO] Loading detailed skill matrix... (See below)
+</pre>
+
+## 💻 Tech Stack
+
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css&logoColor=FFFFFF)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=000000)  
 
-### Programming Language
+### ⚙️ Programming Language
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)  
 
-### Frame Work
+### 🚀 Frame Work
 ![ANDROIDSTUDIO](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)
 ![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
 ![UNITY](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)  
 
-### DataBase
+### 🗄️ DataBase
 ![MYSQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
 ## Project
-The “Field” column in the table indicates the technical domain of each project (e.g., Web, Game, Data Analysis, etc.).  
-The subtitle above the table represents the specific role I was responsible for in each project (e.g., Back-End, Front-End).  
-For projects categorized as “Multidisciplinary,” I contributed to multiple areas; among these, my primary roles are bolded for emphasis.  
+<pre>
+==================================================
+
+$ cat ~/profile/PROJECT_INDEX.txt
+
+# Project Index Information:
+#
+# FIELD: The 'Field' column in the project table indicates the
+#        technical domain of each project (e.g., Web, Game, AI, Security).
+#
+# ROLE:  The subtitle above the table represents the specific role
+#        I was responsible for (e.g., Back-End, Front-End).
+#
+# MULTIDISCIPLINARY: For projects categorized as 'Multidisciplinary',
+#        my primary roles are BOLDED for emphasis.
+
+$ exit
+[INFO] Session terminated. Returning to CUI for detailed information. 
+</pre>
 
 ### Back-End</h3>
 | Period | Project Name | Type | Field | Description | Rspository |
@@ -67,18 +101,3 @@ For projects categorized as “Multidisciplinary,” I contributed to multiple a
 | 2024.04.27 ~ 2025.06.29 | Person File Vault | 개인 | **웹** | 웹을 통해 파일을 저장하는 자신만의 저장소 | [GitHub](https://github.com/kangkyuchang/Cloud-BackEnd) |
 | 2024.09.07 ~ 2025.05.12 | Hang man | 개인 | **웹** / **게임** | 웹으로 이루어지는 단어 맞추기 게임 | [GitHub](https://github.com/kangkyuchang/hangman) |
 | 2024.09.27 ~ 2024.12.06 | 체크메이트 | 팀 | 웹 / **Android** / **IoT** | 출결 관리 시스템이 포함된 커뮤니티 서비스 | [GitHub](https://github.com/kangkyuchang/checkmate) |
-
-<!--
-**kangkyuchang/kangkyuchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
