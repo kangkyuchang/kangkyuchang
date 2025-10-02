@@ -37,7 +37,7 @@ For projects categorized as “Multidisciplinary,” I contributed to multiple a
 | Period | Project Name | Type | Field | Description | Rspository |
 |:------:|:-----------:|:-----:|:------:|------|:--------------:|
 | 2024.05.11 ~ 2024.05.12 | RSA | 개인 | 암호 | 암호화 알고리즘인 RSA 키 생성 구현 | [GitHub](https://github.com/kangkyuchang/RSA) |
-| 2025.02.22 ~ | FireWall | 개인 | 네트워크 보안 | 블랙리스트에 등록된 IP들의 패킷 차단 | [GitHub](https://github.com/kangkyuchang/FireWall) |
+| 2025.02.22 ~ 2025.10.02 | FireWall | 개인 | 네트워크 보안 | 패킷 모니터링 & 리스트에 등록된 IP 차단 | [GitHub](https://github.com/kangkyuchang/FireWall) |
 
 ### AI
 | Period | Project Name | Type | Field | Description | Rspository |
