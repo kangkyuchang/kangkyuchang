@@ -68,7 +68,7 @@ $ cat ~/profile/PROJECT_INDEX.txt
 #        I was responsible for (e.g., Back-End, Front-End).
 #
 # MULTIDISCIPLINARY: For projects categorized as 'Multidisciplinary',
-#        my primary roles are BOLDED for emphasis.
+#                    my primary roles are BOLDED for emphasis.
 
 $ exit
 [INFO] Session terminated. Returning to CUI for detailed information. 
