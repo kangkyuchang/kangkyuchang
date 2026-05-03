@@ -6,7 +6,7 @@ kangkyuchang
 $ cat /etc/os-release
 NAME="Arch Linux"
 PRETTY_NAME="Arch Linux"
-VERSION_ID="2025.10"
+VERSION_ID="2026.05"
 
 $ log -m "Initializing Profile..."
 [INFO] Successfully loaded profile. Access Granted.
@@ -23,11 +23,12 @@ I'm a multidisciplinary software developer with experience ranging from computer
 front-end & back-end development, AI modeling, game development, IoT development, cryptography implementation and security.
 I am passionate about leveraging this broad skill set to build innovative and reliable technology solutions, 
 and I thrive in environments that value both depth and versatility.
-Currently, my focus is centered on the synergy between AI and cybersecurity. 
-I am actively developing comprehensive security solutions that span from endpoints to system-wide architectures. 
-My core expertise lies in:
-  AI for Security: Leveraging machine learning to detect, analyze, and preemptively respond to complex threats.
-  Security for AI: Implementing robust frameworks to protect AI models and data pipelines from emerging vulnerabilities.
+Currently, I am specializing in the convergence of AI and Cybersecurity, 
+building robust protection layers across the entire technology stack:
+  - AI for Security: Leveraging machine learning to detect, analyze, and preemptively respond to complex threats.
+  - Security for AI: Implementing robust frameworks to protect AI models and data pipelines from emerging vulnerabilities.
+  - Full-Stack Security Solutions: Engineering comprehensive security products that cover everything from endpoint agents 
+                                 to core system architectures, ensuring seamless protection across the entire data flow.
 
 ==================================================
 
